@@ -1,8 +1,8 @@
 
-### Olá! Eu sou o Caio Lourenço ✋
+### Hi! I am Caio Lourenço ✋
 <hr>
-● ⚙️ Back-end Developer</br>
-● 👨🏻‍💻  I’m always studying C#, .Net, Html, Css, JavaScript, NodeJs</br>
+● ⚙️ <h1>Back-end Developer  Systems Analysis and Development Student<h1></br>
+● 👨🏻‍💻 <h1> I’m always studying C#, .Net, Html, Css, JavaScript, NodeJs<h1></br>
 <hr>
 <h3>🔧 Technologies I use in my day<h3>
 <div style = "display: inline_block">
