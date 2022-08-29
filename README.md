@@ -1,7 +1,8 @@
 
 ### Hi! I am Caio Lourenço ✋
 <hr>
-● ⚙️ <h1>Back-end Developer  Systems Analysis and Development Student<h1></br>
+● ⚙️ Back-end Developer</br>
+● 📚 Systems Analysis and Development Student</br>
 ● 👨🏻‍💻 <h1> I’m always studying C#, .Net, Html, Css, JavaScript, NodeJs<h1></br>
 <hr>
 <h3>🔧 Technologies I use in my day<h3>
@@ -17,10 +18,10 @@
 <hr>
 
 <h3>📟 GitHub Analytics</h3>
-
+<hr>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLouren)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![Lourenço GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioLouren&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioLouren)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiolourenco081/)
