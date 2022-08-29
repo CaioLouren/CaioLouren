@@ -3,7 +3,7 @@
 <hr>
 ● ⚙️ Back-end Developer</br>
 ● 📚 Systems Analysis and Development Student</br>
-● 👨🏻‍💻 <h1> I’m always studying C#, .Net, Html, Css, JavaScript, NodeJs<h1></br>
+● 👨🏻‍💻 I’m always studying C#, .Net, Html, Css, JavaScript, NodeJs</br>
 <hr>
 <h3>🔧 Technologies I use in my day<h3>
 <div style = "display: inline_block">
